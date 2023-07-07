@@ -1,0 +1,1 @@
+CREATE TABLE LIST (task_id int (primary key), task_name varchar(255), description varchar(255), is_completed varchar(2) not null);
